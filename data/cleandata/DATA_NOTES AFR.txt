@@ -1,0 +1,76 @@
+One folder per year reviewed pre, during and post natural disaster. Each year contained mulitple files that relate to each other. Provided was README.html which described all files contained therein.
+======================================================================================
+An agency is considered to be participating if it either reported 12 months of data or "zero reports" or if it was covered in the year by another agency that did so.
+======================================================================================
+The file called "cde_agencies" contained all data needed. 
+
+From each year/state folder, copied data contained in "cde_agencies" file to "all_year_agencies.csv"
+	added reporting year as new column
+	Limited data to the following columns:
+		ori
+		agency_name
+		state_abbr
+		primary_county_id
+		primary_county
+		population
+		nibrs_months_reported
+		icpsr_zip
+		icpsr_lat
+		icpsr_lng
+		*report_year
+*added column based on folder that contained data
+======================================================================================
+
+all agencies
+
+TX		3296
+	2007		1084
+	2008		1099
+	2009		1113
+VA		1364
+	2010		454
+	2011		455
+	2012		455
+Grand Total	4660
+
+======================================================================================
+participating agencies (12 months submitted)
+
+TX		2809
+	2007		927
+	2008		937
+	2009		945
+VA		1235
+	2010		411
+	2011		412
+	2012		412
+Grand Total	4044
+
+
+
+
+
+
+======================================================================================
+pdf "2019-nibrs-user-manual-v-1.0.pdf" page 69
+An ORI [Originating Agency Identifier] is a unique nine-character identifier the NCIC has
+assigned to each LEA in coordination with the CSO. The UCR Program uses this identifier to
+indicate the contributing agency. Data Element 1 is mandatory in each NIBRS submission.
+
+========================================================================================
+pdf "2019-nibrs-user-manual-v-1.0.pdf" page 7
+
+Originally, the UCR Program was designed as a summary system to collect only the most serious
+offense within an incident. However, the Program began using incident-based reporting (i.e.,
+NIBRS) in 1989 to capture all offenses within an incident—up to ten crime occurrences. Through
+NIBRS, LEAs report data on each offense and arrest within 24 offense categories made up of 52
+specific crimes called Group A offenses. For each of the Group A offenses coming to their
+attention, the LE collects administrative, offense, property, victim, offender, and arrestee
+information. LEAs report only arrest data for an additional 10 Group B offense categories.
+By design, LEAs generate NIBRS data as a by-product of their respective records management
+systems (RMSs). Therefore, an LEA builds its system to suit its own individual needs, including
+all of the information required for administration and operation, then forwards only the data
+required by NIBRS to the National UCR Program. As more agencies report via NIBRS, the data
+collected will provide a clearer assessment of the nation’s crime experience.
+
+

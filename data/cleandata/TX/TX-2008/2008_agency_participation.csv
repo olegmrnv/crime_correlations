@@ -1,0 +1,1086 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2008,Texas,TX,19219,TX0950100,Abernathy,2746,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19740,TX2210100,Abilene,116267,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19744,TX221119E,Abilene Christian University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19009,TX0570100,Addison,13837,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19309,TX1080100,Alamo,16686,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18824,TX0152100,Alamo Community College District,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18807,TX0150100,Alamo Heights,7454,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19669,TX2090100,Albany,1819,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19391,TX1250100,Alice,19855,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18958,TX0430100,Allen,83242,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,18876,TX0220100,Alpine,6227,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18944,TX0371000,Alto,1187,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19325,TX1082300,Alton,10876,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19395,TX1260100,Alvarado,4198,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18851,TX0200100,Alvin,22847,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18862,TX0201700,Alvin Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19610,TX1880100,Amarillo,187674,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2008,Texas,TX,19611,TX1880200,Amarillo College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19613,TX1880600,Amarillo International Airport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19460,TX1460700,Ames,1144,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18752,TX0010000,Anderson,37548,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18757,TX0020100,Andrews,9708,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18756,TX0020000,Andrews,3461,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18758,TX0030000,Angelina,36996,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19753,TX2260300,Angelo State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18852,TX0200200,Angleton,18703,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18971,TX0432600,Anna,1905,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19402,TX1270100,Anson,2285,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19108,TX0710100,Anthony,4149,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19342,TX1100500,Anton,1128,7,"Cities under 2,500",0,2,0,0,0,0,0
+2008,Texas,TX,18764,TX0040000,Aransas,14289,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18765,TX0040100,Aransas Pass,8957,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,18767,TX0050000,Archer,7230,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19150,TX0791200,Arcola,1256,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19053,TX0610100,Argyle,3548,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19701,TX2200100,Arlington,375836,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2008,Texas,TX,18770,TX0060000,Armstrong,2060,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19675,TX2120100,Arp,958,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18771,TX0070000,Atascosa,24047,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19299,TX1070100,Athens,12348,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18930,TX0340100,Atlanta,5482,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18776,TX0080000,Austin,14918,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19756,TX2270100,Austin,753535,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2008,Texas,TX,19203,TX0911900,Austin College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19702,TX2200200,Azle,11371,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18781,TX0090000,Bailey,2032,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18904,TX0300100,Baird,1668,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19010,TX0570200,Balch Springs,20011,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18808,TX0150200,Balcones Heights,2971,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19641,TX2000100,Ballinger,3720,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18783,TX0100000,Bandera,20517,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18882,TX0250100,Bangs,1591,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18793,TX0140100,Bartlett,1724,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18784,TX0110000,Bastrop,51404,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18785,TX0110100,Bastrop,8190,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19515,TX1610100,Bay City,17705,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18788,TX0120000,Baylor,1144,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19041,TX0575100,Baylor Health Care System,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19504,TX155259E,Baylor University: Waco,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19178,TX0842200,Bayou Vista,1697,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19239,TX1010100,Baytown,70596,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19381,TX1230100,Beaumont,109103,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19703,TX2200300,Bedford,49210,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,18790,TX0130000,Bee,20049,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19768,TX2273600,Bee Cave,2852,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18791,TX0130100,Beeville,12697,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18792,TX0140000,Bell,52338,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19240,TX1010200,Bellaire,18316,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19489,TX1550100,Bellmead,9593,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18777,TX0080100,Bellville,4448,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18794,TX0140200,Belton,17536,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19084,TX0660100,Benavides,1520,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19704,TX2200400,Benbrook,23017,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19303,TX1070800,Berryville,978,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18891,TX0270600,Bertram,1405,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19490,TX1550200,Beverly Hills,2049,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18806,TX0150000,Bexar,148157,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19622,TX1920100,Big Lake,2613,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19775,TX2300100,Big Sandy,1353,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19354,TX1140100,Big Spring,23952,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19573,TX1780100,Bishop,3132,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18835,TX0160100,Blanco,1604,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18834,TX0160000,Blanco,5978,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19806,TX2390300,Blinn College,0,7,"Cities under 2,500",0,4,0,0,0,0,0
+2008,Texas,TX,18934,TX0341400,Bloomburg,360,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19705,TX2200500,Blue Mound,2357,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19417,TX1300100,Boerne,9875,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19626,TX1940300,Bogata,1254,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19127,TX0740100,Bonham,10669,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18837,TX0170000,Borden,571,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19368,TX1170100,Borger,12744,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18838,TX0180000,Bosque,12096,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19600,TX1850100,Bovina,1721,7,"Cities under 2,500",0,9,0,0,0,0,0
+2008,Texas,TX,19537,TX1690100,Bowie,5565,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18843,TX0190000,Bowie,38183,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19487,TX1540100,Brady,5252,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18850,TX0200000,Brazoria,103099,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,18863,TX0201800,Brazoria,2988,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18871,TX0210000,Brazos,18615,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19692,TX2150100,Breckenridge,5578,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19633,TX1980100,Bremond,861,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19805,TX2390100,Brenham,15237,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18875,TX0220000,Brewster,3058,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19584,TX1810100,Bridge City,8550,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19852,TX2490100,Bridgeport,6146,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18878,TX0230000,Briscoe,1446,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18879,TX0240000,Brooks,2614,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19797,TX2370100,Brookshire,3955,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18864,TX0201900,Brookside Village,2004,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18881,TX0250000,Brown,14739,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19747,TX2230100,Brownfield,8947,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18907,TX0310100,Brownsville,176893,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,18883,TX0250200,Brownwood,19597,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19505,TX1552600,Bruceville-Eddy,1543,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18872,TX0210100,Bryan,72815,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19481,TX1521300,Buffalo Springs Lake,483,7,"Cities under 2,500",0,0,0,0,1,1,1
+2008,Texas,TX,19683,TX2121500,Bullard,1839,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18981,TX0460800,Bulverde,4624,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19819,TX2430100,Burkburnett,10506,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19396,TX1260200,Burleson,35166,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18885,TX0260000,Burleson,11189,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18888,TX0270000,Burnet,25597,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18889,TX0270100,Burnet,5835,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19555,TX1710400,Cactus,2602,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19362,TX1160700,Caddo Mills,1212,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18895,TX0280000,Caldwell,15449,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18886,TX0260100,Caldwell,3734,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18899,TX0290000,Calhoun,6792,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18903,TX0300000,Callahan,8162,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19634,TX1980200,Calvert,1361,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18906,TX0310000,Cameron,93877,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19530,TX1660100,Cameron,5771,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18920,TX0312200,Cameron County Park Rangers,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18925,TX0320000,Camp,7999,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19297,TX1060100,Canadian,2211,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19304,TX1070900,Caney City,260,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19787,TX2340100,Canton,3666,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19619,TX1910100,Canyon,14202,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19134,TX0750900,Carmine,228,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19080,TX0640100,Carrizo Springs,5347,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19011,TX0570400,Carrollton,125607,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,18927,TX0330000,Carson,3825,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19593,TX1830100,Carthage,6600,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18929,TX0340000,Cass,19721,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18809,TX0150300,Castle Hills,4175,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18935,TX0350000,Castro,3417,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19521,TX1630100,Castroville,3074,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19012,TX0570500,Cedar Hill,46153,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19839,TX2460900,Cedar Park,64020,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19357,TX1160100,Celeste,878,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18959,TX0430200,Celina,5716,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19671,TX2100100,Center,5775,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18799,TX0140900,Central Texas College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18938,TX0360000,Chambers,23380,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18941,TX0370000,Cherokee,26558,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18948,TX0380100,Childress,6497,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18947,TX0380000,Childress,1042,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19231,TX0990100,Chillicothe,702,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19217,TX0940600,Cibolo,14734,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19088,TX0670100,Cisco,3759,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19082,TX0650100,Clarendon,2039,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19625,TX1940100,Clarksville,3464,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18949,TX0390000,Clay,11125,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19397,TX1260300,Cleburne,29954,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19457,TX1460100,Cleveland,8021,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18839,TX0180100,Clifton,3617,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19112,TX0711200,Clint,974,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18853,TX0200300,Clute,10777,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18905,TX0300300,Clyde,3754,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18951,TX0400000,Cochran,3018,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19013,TX0570600,Cockrell Hill,4275,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19306,TX1071900,Coffee City,209,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18953,TX0410000,Coke,3527,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18955,TX0420100,Coleman,4626,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18954,TX0420000,Coleman,2843,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19179,TX0842300,College of the Mainland,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18873,TX0210200,College Station,81925,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19735,TX2204000,Colleyville,24472,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18957,TX0430000,Collin,37498,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2008,Texas,TX,18972,TX0440000,Collingsworth,2946,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19194,TX0910100,Collinsville,1523,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18974,TX0450000,Colorado,11112,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19535,TX1680100,Colorado City,3883,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18975,TX0450100,Columbus,3905,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18978,TX0460000,Comal,52555,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18983,TX0470100,Comanche,4194,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18982,TX0470000,Comanche,6945,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18908,TX0310200,Combes,2837,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19358,TX1160200,Commerce,9497,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18985,TX0480000,Concho,1201,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19541,TX1700100,Conroe,54554,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19559,TX1720400,Constable,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18810,TX0150500,Converse,16057,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18987,TX0490000,Cooke,21050,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19051,TX0600100,Cooper,2142,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19014,TX0570700,Coppell,39541,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18992,TX0500100,Copperas Cove,30052,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19066,TX0612300,Corinth,21890,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19574,TX1780200,Corpus Christi,286558,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2008,Texas,TX,19607,TX1870400,Corrigan,1906,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19566,TX1750100,Corsicana,26711,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18991,TX0500000,Coryell,27464,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18995,TX0510000,Cottle,349,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18894,TX0271200,Cottonwood Shores,1202,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19448,TX1420100,Cotulla,3612,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19337,TX1090900,Covington,303,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19414,TX1290900,Crandall,3796,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18997,TX0520000,Crane,802,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18998,TX0520100,Crane,3050,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19351,TX1130100,Crockett,6880,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18999,TX0530000,Crockett,3761,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19000,TX0540000,Crosby,3040,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19001,TX0540100,Crosbyton,1615,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19141,TX0780100,Crowell,980,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19706,TX2200600,Crowley,12680,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19176,TX0842000,Crystal Beach,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19867,TX2540100,Crystal City,7127,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19075,TX0620100,Cuero,6453,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19004,TX0550000,Culberson,2432,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18946,TX0371200,Cuney,148,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19557,TX1720100,Daingerfield,2476,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19007,TX0560100,Dalhart,6882,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19006,TX0560000,Dallam,1564,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19869,TXDPD0000,Dallas,1276214,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19008,TX0570000,Dallas,7940,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19733,TX2203600,Dallas-Fort Worth International Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2008,Texas,TX,19707,TX2200700,Dalworthington Gardens,2429,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18854,TX0200400,Danbury,1682,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19046,TX0580000,Dawson,4749,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19458,TX1460300,Dayton,7399,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19048,TX0590000,Deaf Smith,4002,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19853,TX2490200,Decatur,6413,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19241,TX1010400,Deer Park,30900,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,18844,TX0190100,De Kalb,1802,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18984,TX0470200,De Leon,2347,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19785,TX2330100,Del Rio,36922,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19050,TX0600000,Delta,5380,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19195,TX0910200,Denison,24276,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19052,TX0610000,Denton,55303,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19054,TX0610200,Denton,120295,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2008,Texas,TX,19861,TX2510100,Denver City,4017,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18751,TX0000000,Department of Public Safety,0,8D,"Non-MSA counties under 10,000",0,1,0,0,0,0,0
+2008,Texas,TX,19015,TX0570800,Desoto,48131,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19522,TX1630200,Devine,4508,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19074,TX0620000,Dewitt,9033,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18759,TX0030100,Diboll,5550,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19077,TX0630000,Dickens,1531,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19165,TX0840200,Dickinson,17884,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19160,TX0820300,Dilley,3592,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19079,TX0640000,Dimmit,9801,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18936,TX0350100,Dimmitt,3676,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19081,TX0650000,Donley,3922,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19310,TX1080200,Donna,16984,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19067,TX0612500,Double Oak,3331,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19579,TX1781700,Driscoll,803,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19119,TX0720100,Dublin,3823,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19553,TX1710100,Dumas,13698,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19016,TX0570900,Duncanville,36221,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19083,TX0660000,Duval,5570,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18976,TX0450200,Eagle Lake,3684,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19519,TX1620100,Eagle Pass,26766,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18884,TX0250300,Early,2769,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19439,TX1400200,Earth,1018,7,"Cities under 2,500",0,10,0,0,0,0,0
+2008,Texas,TX,19033,TX0572900,Eastfield College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19089,TX0670200,Eastland,3907,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19087,TX0670000,Eastland,6018,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19778,TX2300900,East Mountain,627,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19093,TX0680000,Ector,34399,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19311,TX1080300,Edcouch,4506,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18986,TX0480100,Eden,2356,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19788,TX2340200,Edgewood,1446,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19312,TX1080400,Edinburg,71734,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19374,TX1200100,Edna,5780,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19097,TX0690000,Edwards,1914,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19814,TX2410100,El Campo,10612,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19820,TX2430200,Electra,2921,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18786,TX0110200,Elgin,10486,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18755,TX0010600,Elkhart,1283,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19242,TX1010500,El Lago,2962,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19098,TX0700000,Ellis,57440,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19109,TX0710200,El Paso,612374,1B,"Cities from 500,000 thru 999,999",1,12,0,0,0,1,0
+2008,Texas,TX,19107,TX0710000,El Paso,78233,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19111,TX0711100,El Paso Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19116,TX0711800,El Paso Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19313,TX1080500,Elsa,6771,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19099,TX0700100,Ennis,19646,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19118,TX0720000,Erath,15202,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19708,TX2200900,Euless,53157,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19709,TX2201000,Everman,5750,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19155,TX0810100,Fairfield,3648,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18832,TX0153900,Fair Oaks Ranch,6341,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18880,TX0240100,Falfurrias,4932,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19122,TX0730000,Falls,9701,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19126,TX0740000,Fannin,22620,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19017,TX0571000,Farmers Branch,26362,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18960,TX0430300,Farmersville,3472,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19602,TX1850300,Farwell,1264,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19130,TX0750000,Fayette,16507,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19100,TX0700200,Ferris,2539,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19135,TX0760000,Fisher,3912,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19133,TX0750800,Flatonia,1432,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19832,TX2460100,Florence,1127,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19844,TX2470100,Floresville,7594,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19061,TX0611200,Flower Mound,70761,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19137,TX0770000,Floyd,1745,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19138,TX0770100,Floydada,3094,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19140,TX0780000,Foard,418,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19710,TX2201100,Forest Hill,13926,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19410,TX1290100,Forney,15855,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19142,TX0790000,Fort Bend,260587,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,18994,TX0500400,Fort Gates,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19604,TX1860100,Fort Stockton,7293,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19711,TX2201200,Fort Worth,701345,1B,"Cities from 500,000 thru 999,999",1,12,1,12,0,1,1
+2008,Texas,TX,19153,TX0800000,Franklin,10505,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18754,TX0010300,Frankston,1234,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19183,TX0860100,Fredericksburg,11110,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18855,TX0200500,Freeport,12539,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19086,TX0660300,Freer,2950,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19154,TX0810000,Freestone,9418,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19166,TX0840300,Friendswood,34066,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19158,TX0820000,Frio,4870,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19601,TX1850200,Friona,3574,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18961,TX0430400,Frisco,99472,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19161,TX0830000,Gaines,6578,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18988,TX0490100,Gainesville,16650,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19243,TX1010600,Galena Park,10243,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19167,TX0840400,Galveston,56870,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19164,TX0840000,Galveston,35800,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19375,TX1200200,Ganado,1824,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19018,TX0571100,Garland,219135,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19180,TX0850000,Garza,4682,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18993,TX0500200,Gatesville,15139,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19833,TX2460200,Georgetown,49644,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19453,TX1440100,Giddings,5470,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19182,TX0860000,Gillespie,12743,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19776,TX2300200,Gilmer,5260,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19207,TX0920200,Gladewater,6317,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19184,TX0870000,Glasscock,1149,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19039,TX0574700,Glenn Heights,11339,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19400,TX1261300,Godley,1024,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19185,TX0880000,Goliad,7177,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19186,TX0880500,Goliad,2043,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19188,TX0890100,Gonzales,7374,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19187,TX0890000,Gonzales,10910,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19090,TX0670300,Gorman,1243,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19863,TX2520100,Graham,8496,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19345,TX1110100,Granbury,8315,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19019,TX0571200,Grand Prairie,162706,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19789,TX2340300,Grand Saline,3224,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19834,TX2460300,Granger,1357,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18892,TX0270700,Granite Shoals,2829,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19352,TX1130500,Grapeland,1376,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19712,TX2201300,Grapevine,51136,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19191,TX0900000,Gray,4843,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19193,TX0910000,Grayson,42987,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19202,TX0911800,Grayson College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19359,TX1160300,Greenville,25886,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19206,TX0920000,Gregg,22838,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19660,TX2050800,Gregory,2211,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19211,TX0930000,Grimes,18342,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19462,TX1470200,Groesbeck,4297,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19382,TX1230300,Groves,14321,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19228,TX0980100,Gruver,1116,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19213,TX0940000,Guadalupe,42588,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19302,TX1070700,Gun Barrel City,6083,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19218,TX0950000,Hale,9848,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19220,TX0950200,Hale Center,2138,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19222,TX0960000,Hall,1219,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19450,TX1430100,Hallettsville,2498,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19283,TX1020100,Hallsville,2998,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19713,TX2201400,Haltom City,40239,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19225,TX0970100,Hamilton,2972,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19224,TX0970000,Hamilton,6788,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19403,TX1270200,Hamlin,1887,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19227,TX0980000,Hansford,2312,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19230,TX0990000,Hardeman,3354,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19233,TX1000000,Hardin,31063,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19743,TX221109E,Hardin-Simmons University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18795,TX0140300,Harker Heights,25579,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18909,TX0310300,Harlingen,64922,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19238,TX1010000,Harris,1337796,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19282,TX1020000,Harrison,35069,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18937,TX0350200,Hart,1025,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19287,TX1030000,Hartley,2804,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19288,TX1040000,Haskell,2526,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19289,TX1040100,Haskell,2591,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19366,TX1161600,Hawk Cove,620,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19856,TX2500200,Hawkins,1531,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19405,TX1270500,Hawley,572,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19291,TX1050000,Hays,67461,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19635,TX1980300,Hearne,4601,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19639,TX1990300,Heath,7863,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19265,TX1014100,Hedwig Village,2354,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18827,TX0153000,Helotes,7033,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19649,TX2020100,Hemphill,1029,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19296,TX1060000,Hemphill,3364,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19799,TX2370700,Hempstead,7599,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19298,TX1070000,Henderson,54668,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19645,TX2010100,Henderson,11644,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,18950,TX0390100,Henrietta,3256,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19049,TX0590100,Hereford,14444,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19491,TX1550400,Hewitt,13788,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19068,TX0612800,Hickory Creek,3864,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19226,TX0970200,Hico,1339,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19314,TX1080600,Hidalgo,12238,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19308,TX1080000,Hidalgo,225955,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19020,TX0571300,Highland Park,9105,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19065,TX0612000,Highland Village,17004,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19332,TX1090000,Hill,21249,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18811,TX0150700,Hill Country Village,1109,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19333,TX1090100,Hillsboro,8972,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19168,TX0840500,Hitchcock,7254,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19338,TX1100000,Hockley,8646,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18801,TX0141100,Holland,1132,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18769,TX0050200,Holliday,1785,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18812,TX0150800,Hollywood Park,3306,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19523,TX1630300,Hondo,9035,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19344,TX1110000,Hood,41236,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18849,TX0190800,Hooks,2935,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19347,TX1120000,Hopkins,18502,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19114,TX0711400,Horizon City,13488,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18893,TX0271100,Horseshoe Bay,2473,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19040,TX0575000,Hospital District: Dallas County,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19738,TX2205000,Hospital District: Tarrant County,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19870,TXHPD0000,Houston,2238895,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19350,TX1130000,Houston,14465,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19272,TX1016100,Houston Baptist University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19267,TX1015400,Houston Community College,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19268,TX1015700,Houston Metropolitan Transit Authority,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19353,TX1140000,Howard,8202,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19201,TX0911000,Howe,2730,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19334,TX1090200,Hubbard,1769,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18763,TX0031300,Hudson,4277,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19597,TX1840400,Hudson Oaks,1988,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19355,TX1150000,Hudspeth,3288,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19244,TX1010900,Humble,15026,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19356,TX1160000,Hunt,41666,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18760,TX0030200,Huntington,2104,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19795,TX2360100,Huntsville,38097,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19714,TX2201600,Hurst,38702,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19021,TX0571400,Hutchins,3104,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19367,TX1170000,Hutchinson,7070,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19835,TX2460400,Hutto,15488,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19473,TX1520100,Idalou,2101,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19279,TX1017300,Independent School District: Aldine,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18869,TX0203200,Independent School District: Alvin,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18870,TX0203300,Independent School District: Angleton,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19307,TX1072300,Independent School District: Athens,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19767,TX2272400,Independent School District: Austin,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19517,TX1610900,Independent School District: Bay City,0,7,"Cities under 2,500",0,6,0,0,0,0,0
+2008,Texas,TX,18921,TX0312400,Independent School District: Brownsville,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19045,TX0576800,Independent School District: Cedar Hill,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19551,TX1702000,Independent School District: Conroe,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19578,TX1781600,Independent School District: Corpus Christi,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18830,TX0153500,Independent School District: East Central,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2008,Texas,TX,19096,TX0680800,Independent School District: Ector County,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19113,TX0711300,Independent School District: El Paso,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19152,TX0791600,Independent School District: Fort Bend,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19801,TX2371000,Independent School District: Hempstead,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19281,TX1017800,Independent School District: Humble,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18823,TX0152000,Independent School District: Judson,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19274,TX1016700,Independent School District: Katy,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19415,TX1291500,Independent School District: Kaufman,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18802,TX0141500,Independent School District: Killeen,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19271,TX1016000,Independent School District: Klein,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19812,TX2401100,Independent School District: Laredo,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19464,TX1471100,Independent School District: Mexia,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19528,TX1650300,Independent School District: Midland,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18831,TX0153800,Independent School District: North East,0,7,"Cities under 2,500",0,10,0,0,0,0,0
+2008,Texas,TX,19278,TX1017200,Independent School District: Pasadena,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19769,TX2273800,Independent School District: Pflugerville,0,7,"Cities under 2,500",0,6,0,0,0,0,0
+2008,Texas,TX,19830,TX2450900,Independent School District: Raymondville,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19117,TX0712200,Independent School District: Socorro,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19277,TX1017100,Independent School District: Spring,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19276,TX1017000,Independent School District: Spring Branch,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19661,TX2051600,Independent School District: Taft,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19684,TX2121900,Independent School District: Tyler,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19811,TX2400700,Independent School District: United,0,7,"Cities under 2,500",0,1,0,0,0,0,0
+2008,Texas,TX,19328,TX1082900,Independent School District: Weslaco,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19655,TX2050100,Ingleside,9023,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19422,TX1330500,Ingram,1910,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18868,TX0203000,Iowa Colony,950,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19821,TX2430400,Iowa Park,6292,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19370,TX1180000,Irion,1740,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19022,TX0571500,Irving,200470,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19101,TX0700400,Italy,2137,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19335,TX1090300,Itasca,1673,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19245,TX1011100,Jacinto City,9949,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19371,TX1190000,Jack,4330,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19372,TX1190100,Jacksboro,4513,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19373,TX1200000,Jackson,6450,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18942,TX0370100,Jacksonville,14302,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19175,TX0841900,Jamaica Beach,1107,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19842,TX2462500,Jarrell,1439,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19377,TX1210100,Jasper,7228,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19376,TX1210000,Jasper,25249,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19379,TX1220000,Jeff Davis,2268,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19510,TX1580100,Jefferson,1946,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19380,TX1230000,Jefferson,33739,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19246,TX1011200,Jersey Village,7299,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19389,TX1240000,Jim Hogg,4937,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19390,TX1250000,Jim Wells,16369,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19394,TX1260000,Johnson,72513,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18836,TX0160200,Johnson City,1565,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19401,TX1270000,Jones,5470,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18865,TX0202700,Jones Creek,2107,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19765,TX2272200,Jonestown,2472,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19398,TX1260500,Joshua,5788,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,18775,TX0070400,Jourdanton,4367,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19424,TX1340100,Junction,2569,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19406,TX1280000,Karnes,8366,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19407,TX1280100,Karnes City,3345,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19258,TX1012700,Katy,14106,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19409,TX1290000,Kaufman,50243,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19411,TX1290200,Kaufman,8775,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19399,TX1260600,Keene,6408,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19728,TX2203000,Keller,39598,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19169,TX0840600,Kemah,2482,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19412,TX1290300,Kemp,1300,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19446,TX1410800,Kempner,1186,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19416,TX1300000,Kendall,21484,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19149,TX0791100,Kendleton,533,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19408,TX1280200,Kenedy,3311,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19418,TX1310000,Kenedy,391,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19715,TX2201700,Kennedale,7108,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19419,TX1320000,Kent,723,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19567,TX1750400,Kerens,1840,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19849,TX2480100,Kermit,5078,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19420,TX1330000,Kerr,23537,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19421,TX1330100,Kerrville,22942,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19208,TX0920400,Kilgore,12120,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18796,TX0140400,Killeen,115906,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19423,TX1340000,Kimble,1888,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19425,TX1350000,King,284,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19429,TX1370100,Kingsville,24253,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19426,TX1360000,Kinney,3312,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18813,TX0150900,Kirby,8568,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19378,TX1210200,Kirbyville,1949,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19428,TX1370000,Kleberg,5790,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19023,TX0571600,Kleburg,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19431,TX1380000,Knox,2221,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19432,TX1380200,Knox City,991,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19234,TX1000100,Kountze,2167,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19698,TX2190200,Kress,766,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19294,TX1050700,Kyle,28543,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19492,TX1550500,Lacy-Lakeview,5864,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18910,TX0310400,La Feria,6972,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19764,TX2272100,Lago Vista,6305,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19131,TX0750100,La Grange,4690,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18923,TX0312900,Laguna Vista,3534,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19322,TX1081500,La Joya,4923,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19055,TX0610500,Lake Dallas,7724,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18856,TX0200800,Lake Jackson,27603,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19716,TX2201800,Lakeside,1328,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19383,TX1230400,Lakeview,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19273,TX1016600,Lakeview,6518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19762,TX2271100,Lakeway,10976,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19717,TX2201900,Lake Worth,4792,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19434,TX1390000,Lamar,20139,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19170,TX0840700,La Marque,14072,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19388,TX1231000,Lamar University: Beaumont,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19438,TX1400000,Lamb,3584,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19047,TX0580100,Lamesa,8890,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19444,TX1410100,Lampasas,8000,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19443,TX1410000,Lampasas,11263,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19024,TX0571700,Lancaster,36584,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19247,TX1011300,La Porte,34552,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19808,TX2400100,Laredo,222870,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19809,TX2400500,Laredo Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19447,TX1420000,La Salle,6026,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19449,TX1430000,Lavaca,12786,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19846,TX2470700,La Vernia,1214,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19315,TX1080700,La Villa,1453,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18970,TX0432000,Lavon,421,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19171,TX0840800,League City,71651,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19840,TX2461700,Leander,26680,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19452,TX1440000,Lee,9729,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19455,TX1450000,Leon,16596,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18814,TX0151000,Leon Valley,10152,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19339,TX1100100,Levelland,12399,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19056,TX0610600,Lewisville,100947,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2008,Texas,TX,19454,TX1440200,Lexington,1238,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19456,TX1460000,Liberty,52245,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19459,TX1460400,Liberty,8403,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19461,TX1470000,Limestone,11561,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19676,TX2120200,Lindale,4811,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18932,TX0340300,Linden,2129,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19465,TX1480000,Lipscomb,3034,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19062,TX0611300,Little Elm,29616,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19440,TX1400300,Littlefield,6027,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19466,TX1490000,Live Oak,9561,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18820,TX0151600,Live Oak,12958,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19606,TX1870200,Livingston,6345,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19469,TX1500100,Llano,3254,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19468,TX1500000,Llano,12570,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18896,TX0280100,Lockhart,13869,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19139,TX0770200,Lockney,1692,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19363,TX1161200,Lone Oak,569,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19558,TX1720200,Lone Star,1606,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19270,TX1015900,Lone Star College System District ,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19209,TX0920500,Longview,77272,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19493,TX1550600,Lorena,1702,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19002,TX0540200,Lorenzo,1189,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18911,TX0310500,Los Fresnos,5469,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19471,TX1510000,Loving,54,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19474,TX1520200,Lubbock,219594,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19472,TX1520000,Lubbock,27417,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2008,Texas,TX,18761,TX0030400,Lufkin,34214,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18897,TX0280200,Luling,5483,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19237,TX1000900,Lumberton,10243,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19827,TX2450100,Lyford,2443,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19483,TX1530000,Lynn,2471,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18772,TX0070100,Lytle,2786,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19507,TX1570000,Madison,9046,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19508,TX1570100,Madisonville,4392,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19544,TX1701000,Magnolia,1267,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19300,TX1070200,Malakoff,2331,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19757,TX2270200,Manor,3711,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19718,TX2202000,Mansfield,46560,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18857,TX0200900,Manvel,5353,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18890,TX0270200,Marble Falls,7638,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19615,TX1890100,Marfa,1860,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19509,TX1580000,Marion,8770,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19214,TX0940100,Marion,1147,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19124,TX0730200,Marlin,5950,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19284,TX1020200,Marshall,23874,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19070,TX0613000,Marshall Creek,510,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19495,TX1550800,Mart,2591,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19511,TX1590000,Martin,1922,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18898,TX0280900,Martindale,1150,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19513,TX1600000,Mason,3909,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19514,TX1610000,Matagorda,14167,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19656,TX2050200,Mathis,5331,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19518,TX1620000,Maverick,25456,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19316,TX1080800,McAllen,130039,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19780,TX2310100,McCamey,1569,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19486,TX1540000,McCulloch,2573,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19494,TX1550700,McGregor,4890,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18962,TX0430500,McKinney,126659,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2008,Texas,TX,19488,TX1550000,McLennan,41863,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2008,Texas,TX,19501,TX1551600,McLennan Community College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19506,TX1560000,McMullen,878,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19151,TX0791300,Meadows Place,6688,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19520,TX1630000,Medina,27400,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18967,TX0431700,Melissa,4362,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19255,TX1012400,Memorial Villages,11907,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19223,TX0960100,Memphis,2230,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19525,TX1640000,Menard,2108,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19317,TX1080900,Mercedes,15066,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18841,TX0180800,Meridian,1514,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19741,TX2210300,Merkel,2625,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19025,TX0571800,Mesquite,132600,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19463,TX1470300,Mexia,6610,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19527,TX1650100,Midland,105049,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19526,TX1650000,Midland,21795,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19102,TX0700500,Midlothian,16847,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19823,TX2430700,Midwestern State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19529,TX1660000,Milam,11922,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19103,TX0700600,Milford,744,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19533,TX1670000,Mills,5019,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19857,TX2500300,Mineola,5195,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2008,Texas,TX,19591,TX1820200,Mineral Wells,16804,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19318,TX1081000,Mission,68236,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19143,TX0790100,Missouri City,77075,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19534,TX1680000,Mitchell,5348,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19803,TX2380100,Monahans,6282,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19536,TX1690000,Montague,9933,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18939,TX0360700,Mont Belvieu,2677,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19540,TX1700000,Montgomery,359122,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19549,TX1701700,Montgomery,588,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19552,TX1710000,Moore,3779,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18800,TX0141000,Morgans Point Resort,4529,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19556,TX1720000,Morris,7566,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18952,TX0400100,Morton,1791,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19561,TX1730000,Motley,1269,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19037,TX0574400,Mountain View College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19750,TX2250100,Mount Pleasant,14853,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18782,TX0090100,Muleshoe,4297,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19433,TX1380300,Munday,1222,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18968,TX0431800,Murphy,16612,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19766,TX2272300,Mustang Ridge,941,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19562,TX1740000,Nacogdoches,30580,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19563,TX1740200,Nacogdoches,32265,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19560,TX1720500,Naples,1421,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18845,TX0190300,Nash,2423,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19259,TX1012800,Nassau Bay,4059,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19565,TX1750000,Navarro,21382,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19212,TX0930100,Navasota,7522,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19384,TX1230500,Nederland,16033,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19148,TX0790700,Needville,3550,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18846,TX0190400,New Boston,4641,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18979,TX0460100,New Braunfels,53803,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19482,TX1521500,New Deal,744,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19568,TX1760000,Newton,13683,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19538,TX1690200,Nocona,3250,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19569,TX1770000,Nolan,2873,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18797,TX0140500,Nolanville,2829,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19496,TX1551000,Northcrest,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19073,TX0613900,Northlake,1205,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19036,TX0573500,North Lake College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19719,TX2202100,North Richland Hills,65552,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19572,TX1780000,Nueces,15702,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18990,TX0490800,Oak Ridge,249,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19548,TX1701600,Oak Ridge North,3420,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19580,TX1790000,Ochiltree,1335,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19094,TX0680200,Odessa,97644,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19485,TX1530500,O'Donnell,915,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19582,TX1800000,Oldham,2061,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18815,TX0151100,Olmos Park,2304,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19864,TX2520200,Olney,3250,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19441,TX1400400,Olton,2187,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19608,TX1870800,Onalaska,1507,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19583,TX1810000,Orange,39176,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19585,TX1810200,Orange,17287,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19393,TX1250800,Orange Grove,1423,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19777,TX2300300,Ore City,1184,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19646,TX2010300,Overton,2360,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19043,TX0575500,Ovilla,3966,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18867,TX0202900,Oyster Creek,1251,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18996,TX0510100,Paducah,1229,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19516,TX1610200,Palacios,5038,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18753,TX0010100,Palestine,18197,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19104,TX0700700,Palmer,2252,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19590,TX1820000,Palo Pinto,12759,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19192,TX0900200,Pampa,17140,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18928,TX0330100,Panhandle,2515,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19592,TX1830000,Panola,16216,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19729,TX2203100,Pantego,2368,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19435,TX1390200,Paris,26121,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19436,TX1390400,Paris Junior College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18969,TX0431900,Parker,2896,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19594,TX1840000,Parker,70761,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19599,TX1850000,Parmer,2798,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19248,TX1011500,Pasadena,147114,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19543,TX1700800,Patton Village,1496,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18858,TX0201000,Pearland,83185,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19385,TX1230600,Pear Ridge,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19159,TX0820100,Pearsall,7663,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19628,TX1950200,Pecos,7726,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19603,TX1860000,Pecos,8586,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19736,TX2204800,Pelican Bay,1616,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19329,TX1083000,Penitas,1181,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19581,TX1790100,Perryton,8331,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19761,TX2270900,Pflugerville,37454,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19319,TX1081100,Pharr,66084,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19057,TX0610700,Pilot Point,4454,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19586,TX1810300,Pinehurst,2153,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19650,TX2020200,Pineland,873,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18926,TX0320100,Pittsburg,4684,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19221,TX0950400,Plainview,21574,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18963,TX0430600,Plano,265739,1C,"Cities from 250,000 thru 499,999",1,12,1,12,0,1,1
+2008,Texas,TX,18773,TX0070200,Pleasanton,9762,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18900,TX0290100,Point Comfort,707,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19605,TX1870000,Polk,37210,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19072,TX0613200,Ponder,1396,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19576,TX1780500,Port Aransas,3826,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19386,TX1230700,Port Arthur,55032,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,18912,TX0310600,Port Isabel,5301,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19657,TX2050300,Portland,16604,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18901,TX0290200,Port Lavaca,11379,5,"Cities from 10,000 thru 24,999",1,12,0,4,0,1,0
+2008,Texas,TX,19387,TX1230800,Port Neches,12574,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19181,TX0850100,Post,3540,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,18774,TX0070300,Poteet,3663,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19845,TX2470200,Poth,2332,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19609,TX1880000,Potter,14912,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19196,TX0910300,Pottsboro,2157,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19800,TX2370900,Prairie View A&M University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19392,TX1250200,Premont,2815,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19616,TX1890600,Presidio,4841,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19614,TX1890000,Presidio,904,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18913,TX0310700,Primera,3491,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18966,TX0430900,Princeton,6072,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19326,TX1082400,Progreso,5449,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18964,TX0430700,Prosper,7007,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19232,TX0990200,Quanah,2551,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,18933,TX0340400,Queen City,1542,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19365,TX1161400,Quinlan,1447,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19858,TX2500400,Quitman,2260,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19617,TX1900000,Rains,11490,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19003,TX0540300,Ralls,1994,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19618,TX1910000,Randall,19021,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19091,TX0670400,Ranger,2578,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2008,Texas,TX,19479,TX1521100,Ransom Canyon,1120,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19828,TX2450200,Raymondville,9475,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19621,TX1920000,Reagan,3024,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19623,TX1930000,Real,2954,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19105,TX0700800,Red Oak,9323,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19624,TX1940000,Red River,8250,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19627,TX1950000,Reeves,3244,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19629,TX1960000,Refugio,4601,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19630,TX1960100,Refugio,2701,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19437,TX1391000,Reno,3077,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19263,TX1013800,Rice University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19026,TX0572000,Richardson,100597,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2008,Texas,TX,19035,TX0573400,Richland College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19720,TX2202200,Richland Hills,8099,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19144,TX0790200,Richmond,13637,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18859,TX0201100,Richwood,3446,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19502,TX1551700,Riesel,1017,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19688,TX2140200,Rio Grande City,14080,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19092,TX0670500,Rising Star,837,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19721,TX2202300,River Oaks,6932,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19069,TX0612900,Roanoke,3852,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19631,TX1970000,Roberts,825,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19632,TX1980000,Robertson,8972,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19497,TX1551100,Robinson,10358,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19575,TX1780300,Robstown,12132,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19531,TX1660200,Rockdale,5920,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18766,TX0040200,Rockport,9622,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19637,TX1990100,Rockwall,36467,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19636,TX1990000,Rockwall,16389,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19758,TX2270300,Rollingwood,1414,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19689,TX2140300,Roma,11377,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19542,TX1700700,Roman Forest,4045,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19340,TX1100200,Ropesville,513,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19570,TX1770200,Roscoe,1240,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19125,TX0730300,Rosebud,1332,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19589,TX1810800,Rose City,501,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19145,TX0790300,Rosenberg,34273,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19136,TX0760100,Rotan,1421,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19836,TX2460500,Round Rock,102411,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19034,TX0573300,Rowlett,57010,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19638,TX1990200,Royse City,9597,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19290,TX1040200,Rule,593,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19854,TX2490800,Runaway Bay,1404,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19640,TX2000000,Runnels,3966,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19644,TX2010000,Rusk,31226,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18943,TX0370300,Rusk,5216,6,"Cities from 2,500 thru 9,999",1,12,0,2,0,1,0
+2008,Texas,TX,19783,TX2320200,Sabinal,1635,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19648,TX2020000,Sabine,8198,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19027,TX0572100,Sachse,19651,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19722,TX2202400,Saginaw,20765,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18804,TX0141800,Salado,2055,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19752,TX2260100,San Angelo,90739,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19754,TX2260700,San Angelo Park,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19871,TXSPD0000,San Antonio,1351244,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19651,TX2030000,San Augustine,6249,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19652,TX2030100,San Augustine,2352,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18915,TX0310900,San Benito,24807,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19085,TX0660200,San Diego,4445,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19058,TX0610800,Sanger,8013,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19653,TX2040000,San Jacinto,25132,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19320,TX1081300,San Juan,34103,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19292,TX1050100,San Marcos,52473,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19654,TX2050000,San Patricio,19119,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19663,TX2060100,San Saba,2535,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2008,Texas,TX,19662,TX2060000,San Saba,3405,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19723,TX2202500,Sansom Park Village,4167,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18956,TX0420200,Santa Anna,1006,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19177,TX0842100,Santa Fe,10603,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18916,TX0311000,Santa Rosa,3164,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19215,TX0940200,Schertz,30609,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19664,TX2070000,Schleicher,2799,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19665,TX2080000,Scurry,5566,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19249,TX1011700,Seabrook,11760,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18902,TX0290300,Seadrift,1436,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19028,TX0572200,Seagoville,11867,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19162,TX0830100,Seagraves,2332,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18778,TX0080200,Sealy,6320,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19216,TX0940300,Seguin,26348,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,18825,TX0152200,Selma,4881,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19163,TX0830200,Seminole,6078,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19301,TX1070500,Seven Points,1238,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18789,TX0120100,Seymour,2663,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19668,TX2090000,Shackelford,3144,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19475,TX1520300,Shallowater,2292,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19817,TX2420100,Shamrock,1809,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18816,TX0151200,Shavano Park,3255,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19670,TX2100000,Shelby,20897,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19545,TX1701200,Shenandoah,2022,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19672,TX2110000,Sherman,1000,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19197,TX0910400,Sherman,38039,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19235,TX1000200,Silsbee,6834,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19658,TX2050400,Sinton,5360,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19476,TX1520400,Slaton,5739,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19674,TX2120000,Smith,86266,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18787,TX0110300,Smithville,4501,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19666,TX2080100,Snyder,10418,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19115,TX0711600,Socorro,32444,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18826,TX0152300,Somerset,1862,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19685,TX2130000,Somervell,7881,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18887,TX0260200,Somerville,1683,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19696,TX2180100,Sonora,3082,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19236,TX1000300,Sour Lake,1738,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19042,TX0575200,Southern Methodist University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19250,TX1011900,South Houston,16496,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19730,TX2203200,Southlake,26837,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,18918,TX0311300,South Padre Island,2797,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19341,TX1100400,South Plains College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19251,TX1012000,Southside Place,1669,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19838,TX2460800,Southwestern University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19229,TX0980200,Spearman,2909,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19596,TX1840300,Springtown,3167,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19252,TX1012100,Spring Valley,3803,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19078,TX0630100,Spur,954,7,"Cities under 2,500",0,10,0,0,0,0,0
+2008,Texas,TX,19146,TX0790400,Stafford,20051,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19404,TX1270400,Stamford,3080,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19512,TX1590100,Stanton,2205,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19686,TX2140000,Starr,37461,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19564,TX1740400,Stephen F. Austin State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19691,TX2150000,Stephens,3948,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19120,TX0720200,Stephenville,16945,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19693,TX2160000,Sterling,1230,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19369,TX1170500,Stinnett,1803,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19539,TX1690300,St. Jo,974,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18829,TX015349E,St. Mary's University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19694,TX2170000,Stonewall,1375,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19044,TX0575900,St. Paul Medical Center,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19673,TX2110100,Stratford,1872,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19280,TX1017600,St. Thomas University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19442,TX1400500,Sudan,994,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19147,TX0790500,Sugar Land,81763,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2008,Texas,TX,19330,TX1083200,Sullivan City,4440,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19349,TX1120200,Sulphur Springs,15493,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18877,TX0220200,Sul Ross State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19343,TX1100600,Sundown,1502,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19470,TX1500500,Sunrise Beach Village,755,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19763,TX2271900,Sunset Valley,870,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18866,TX0202800,Surfside Beach,891,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19695,TX2180000,Sutton,1256,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18860,TX0201200,Sweeny,3591,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19571,TX1770300,Sweetwater,10365,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19697,TX2190000,Swisher,2280,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19659,TX2050500,Taft,3348,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19484,TX1530200,Tahoka,2528,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19121,TX0720400,Tarleton State University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19700,TX2200000,Tarrant,34354,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19647,TX2011100,Tatum,1205,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19739,TX2210000,Taylor,12387,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19837,TX2460600,Taylor,16048,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19253,TX1012200,Taylor Lake Village,3556,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2008,Texas,TX,19156,TX0810200,Teague,4765,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18798,TX0140700,Temple,58812,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19745,TX2220000,Terrell,919,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19413,TX1290500,Terrell,19722,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18817,TX0151300,Terrell Hills,5197,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19746,TX2230000,Terry,3178,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18847,TX0190500,Texarkana,36300,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19810,TX2400600,Texas A&M International University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18874,TX0210400,Texas A&M University: College Station,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19361,TX1160600,Texas A&M University: Commerce,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19577,TX1781500,Texas A&M University: Corpus Christi,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19174,TX0841200,Texas A&M University: Galveston,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19430,TX1370300,Texas A&M University: Kingsville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19734,TX2203700,Texas Christian University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19172,TX0840900,Texas City,44768,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19269,TX1015800,Texas Medical Center,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19262,TX1013300,Texas Southern University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19612,TX1880400,Texas State Technical College: Amarillo,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18919,TX0311400,Texas State Technical College: Harlingen,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19285,TX1021200,Texas State Technical College: Marshall,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19503,TX1551800,Texas State Technical College: Waco,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19293,TX1050300,Texas State University: San Marcos,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19480,TX1521200,Texas Technical University: Health and Sciences Center,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19477,TX1520600,Texas Tech University: Lubbock,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19059,TX0611000,Texas Woman's University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19064,TX0611500,The Colony,43724,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19532,TX1660300,Thorndale,1321,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19841,TX2461800,Thrall,897,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19467,TX1490100,Three Rivers,1677,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19748,TX2240000,Throckmorton,1644,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19204,TX0912100,Tioga,931,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19749,TX2250000,Titus,14707,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19346,TX1110300,Tolar,680,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19254,TX1012300,Tomball,10412,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2008,Texas,TX,19751,TX2260000,Tom Green,15894,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19305,TX1071000,Tool,2459,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19755,TX2270000,Travis,184400,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19771,TX2280100,Trinity,2736,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19770,TX2280000,Trinity,11476,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18828,TX015319E,Trinity University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19071,TX0613100,Trophy Club,8141,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19677,TX2120300,Troup,2116,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,18803,TX0141700,Troy,1410,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19699,TX2190300,Tulia,4575,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19742,TX2210800,Tye,1141,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19772,TX2290000,Tyler,18085,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19678,TX2120400,Tyler,98042,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19680,TX2120800,Tyler Junior College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18818,TX0151400,Universal City,18430,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19261,TX1013200,University of Houston: Central Campus,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19264,TX1013900,University of Houston: Clearlake,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19266,TX1014200,University of Houston: Downtown Campus,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18805,TX0141900,University of Mary Hardin-Baylor,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19060,TX0611100,University of North Texas: Denton,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19737,TX2204900,University of North Texas: Health Science Center,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19731,TX2203300,University of Texas: Arlington,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2008,Texas,TX,19760,TX2270500,University of Texas: Austin,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18917,TX0311200,University of Texas: Brownsville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19032,TX0572800,University of Texas: Dallas,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19110,TX0710400,University of Texas: El Paso,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18821,TX0151700,"University of Texas: Health Science Center, San Antonio",0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19682,TX2121000,"University of Texas: Health Science Center, Tyler",0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19260,TX1012900,University of Texas: Houston,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19173,TX0841000,University of Texas: Medical Branch,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19323,TX1081700,University of Texas: Pan American,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19095,TX0680400,University of Texas: Permian Basin,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18822,TX0151900,University of Texas: San Antonio,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19031,TX0572600,University of Texas: Southwestern Medical School,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19681,TX2120900,University of Texas: Tyler,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19029,TX0572400,University Park,24561,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19774,TX2300000,Upshur,27231,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19779,TX2310000,Upton,3014,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19782,TX2320100,Uvalde,16263,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19781,TX2320000,Uvalde,8767,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18840,TX0180200,Valley Mills,1140,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18989,TX0490700,Valley View,799,7,"Cities under 2,500",0,4,0,0,0,0,0
+2008,Texas,TX,19784,TX2330000,Val Verde,11499,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19790,TX2340400,Van,2592,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19198,TX0910500,Van Alstyne,2987,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19005,TX0550100,Van Horn,2014,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19786,TX2340000,Van Zandt,37728,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19825,TX2440100,Vernon,10998,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19793,TX2350100,Victoria,62464,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2008,Texas,TX,19792,TX2350000,Victoria,24117,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19587,TX1810400,Vidor,10901,5,"Cities from 10,000 thru 24,999",1,12,0,1,0,1,0
+2008,Texas,TX,19498,TX1551200,Waco,123208,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19190,TX0890400,Waelder,996,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18848,TX0190600,Wake Village,5562,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19794,TX2360000,Walker,26082,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19798,TX2370200,Waller,2073,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19796,TX2370000,Waller,22002,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18779,TX0080700,Wallis,1306,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18842,TX0180900,Walnut Springs Police Department,805,7,"Cities under 2,500",0,0,0,0,0,0,0
+2008,Texas,TX,19802,TX2380000,Ward,3920,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19804,TX2390000,Washington,17006,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19724,TX2202600,Watauga,24114,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19106,TX0701000,Waxahachie,28110,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19595,TX1840100,Weatherford,26696,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19807,TX2400000,Webb,15620,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19256,TX1012500,Webster,10196,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,18977,TX0450300,Weimar,2004,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18973,TX0440100,Wellington,2063,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,18945,TX0371100,Wells,793,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19321,TX1081400,Weslaco,33096,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2008,Texas,TX,19499,TX1551300,West,2701,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,18861,TX0201400,West Columbia,4191,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19667,TX2080600,Western Texas College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19759,TX2270400,West Lake Hills,3145,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19588,TX1810500,West Orange,3827,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19725,TX2202700,Westover Hills,697,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19364,TX1161300,West Tawakoni,1754,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19620,TX1910300,West Texas A&M University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19257,TX1012600,West University Place,15578,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19732,TX2203400,Westworth,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2008,Texas,TX,19726,TX2202800,Westworth,3113,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19813,TX2410000,Wharton,21024,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19815,TX2410200,Wharton,9221,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19816,TX2420000,Wheeler,2932,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19679,TX2120500,Whitehouse,7791,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19210,TX0920600,White Oak,6326,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19199,TX0910600,Whitesboro,4043,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19727,TX2202900,White Settlement,16330,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19336,TX1090600,Whitney,2051,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19818,TX2430000,Wichita,6590,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19822,TX2430500,Wichita Falls,101279,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2008,Texas,TX,19824,TX2440000,Wilbarger,2966,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19826,TX2450000,Willacy,11097,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19831,TX2460000,Williamson,100465,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2008,Texas,TX,19546,TX1701400,Willis,4320,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19598,TX1840500,Willow Park,4431,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19791,TX2340500,Wills Point,3884,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19030,TX0572500,Wilmer,3599,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19843,TX2470000,Wilson,31365,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,18819,TX0151500,Windcrest,5259,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19850,TX2480200,Wink,882,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19848,TX2480000,Winkler,520,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19859,TX2500500,Winnsboro,3950,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19642,TX2000300,Winters,2545,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19851,TX2490000,Wise,44449,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19360,TX1160400,Wolfe City,1648,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19478,TX1520800,Wolfforth,3538,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19855,TX2500000,Wood,30576,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2008,Texas,TX,19773,TX2290100,Woodville,2261,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19500,TX1551400,Woodway,8776,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19157,TX0810300,Wortham,1079,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,18965,TX0430800,Wylie,38693,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2008,Texas,TX,19860,TX2510000,Yoakum,3452,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19451,TX1430300,Yoakum,5477,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2008,Texas,TX,19076,TX0620300,Yorktown,2155,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19862,TX2520000,Young,5909,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,19868,TXDI01200,Ysleta del Sur Pueblo Tribal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2008,Texas,TX,19865,TX2530000,Zapata,13792,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2008,Texas,TX,19866,TX2540000,Zavala,4547,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2008,Texas,TX,18762,TX0031100,Zavalla,666,7,"Cities under 2,500",0,0,0,0,1,1,0
