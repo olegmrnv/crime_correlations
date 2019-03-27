@@ -9,6 +9,7 @@ From each year/state folder, copied data contained in "cde_agencies" file to "al
 	Limited data to the following columns:
 		*Source.Name
 		*report_year
+		agency_id
 		ori
 		agency_name
 		state_abbr
