@@ -1,1 +1,0 @@
-gmap_api = "AIzaSyDRM20alIW-u4q_ie460zbW0mEoKYJp_Qo"
