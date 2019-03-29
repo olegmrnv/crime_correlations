@@ -12,3 +12,10 @@ Crime data analysis utilizes 4 Jupyter notebook scripts (final_Oleg folder):
 
 data_cleanup scripts reads raw data, pulls API info and creates csv files with usable data only. One script per state. 
 data_analysis reads filtered data and creates graphs and plots for visual data evaluation. 
+
+
+Agencies (Final_Amy folder)
+
+Scripts create a heatmap with a list of agencies utilizing API for Google Maps and CSV files with data (Final_Amy/data/cleandata/)
+ - tx_map_part_agencies.ipynb
+ - va_map_part_agencies.ipynb
