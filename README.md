@@ -1,7 +1,7 @@
 # crime correlations
 A.M.O.K.
 
-Crime data analysis utilizes 4 Jupyter notebook scripts: 
+Crime data analysis utilizes 4 Jupyter notebook scripts (final_Oleg folder): 
 
  - data_cleanup_TX.ipynb
  - data_cleanup_VA.ipynb
