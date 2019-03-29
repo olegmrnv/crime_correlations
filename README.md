@@ -1,4 +1,4 @@
-# crime correlations
+# Effects of natural disasters
 A.M.O.K.
 
 Crime data analysis utilizes 4 Jupyter notebook scripts (final_Oleg folder): 
