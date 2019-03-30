@@ -1,7 +1,7 @@
 ﻿# Effects of Natural Disasters on Communities
 by A.M.O.K.
 #
-Crime data analysis utilizes 4 Jupyter notebook scripts "final_Oleg" folder: 
+Crime data analysis (final_Oleg folder): 
  
 notebooks
  - data_cleanup_TX.ipynb
@@ -18,7 +18,7 @@ data_analysis reads filtered data and creates graphs and plots for visual data e
 data
  - CSV files located in “data” folder 
 ##
-Agencies (Final_Amy folder)
+Agencies (Final_Amy folder):
  
 Notebooks create a heatmap showing agencies available to pull API in Texas and Virginia. (Final_Amy/data/cleandata/)
 
@@ -36,10 +36,12 @@ reports
  - All NIBRS Participating Texas Agencies 2008.png
  - All NIBRS Participating Virginia Agencies 2011.png
 ##
-Population (Final_Kundyz folder)
+Population (Final_Kundyz folder):
+
+(note: double space to create new line (to not allow wrapping). Use "-" to create bullet point, ## are used to create line)
  
  
 ##
-Median Household Income (Final Mariam folder)
+Median Household Income (Final Mariam folder):
  
- 
+(note: double space to create new line (to not allow wrapping). Use "-" to create bullet point, ## are used to create line) 
