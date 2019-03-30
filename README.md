@@ -38,6 +38,13 @@ reports
 ##
 Population (Final_Kundyz folder):
 
+data/clean data
+
+clean
+
+notebooks
+
+reports
 Final Notes (Kundyz)
 
 Work for Population 2004-2015 Galveston City/Louisa County is in Final_Kundyz/notebooks folder.
