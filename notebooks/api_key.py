@@ -1,1 +1,0 @@
-gmap_api = "your key here"
