@@ -38,22 +38,12 @@ reports
 ##
 Population (Final_Kundyz folder):
 
-data/clean data
-
-clean
-
 notebooks
+ - Work for Population 2004-2015 Galveston City/Louisa County is in Final_Kundyz/notebooks folder.
 
 reports
-Final Notes (Kundyz)
+ - Graphs for Population 2004-2015 Galveston City/Louisa County are in Final_Kundyz/reports folder.
 
-Work for Population 2004-2015 Galveston City/Louisa County is in Final_Kundyz/notebooks folder.
-
-Graphs for Population 2004-2015 Galveston City/Louisa County are in Final_Kundyz/reports folder.
-
-Data for Median Household Income for both counties are in Final_Kundyz/data/clean data folder. 
- 
- 
 ##
 Median Household Income (Final Mariam folder):
  
