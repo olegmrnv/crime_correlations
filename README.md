@@ -50,4 +50,16 @@ Data for Median Household Income for both counties are in Final_Kundyz/data/clea
 ##
 Median Household Income (Final Mariam folder):
  
-(note: double space to create new line (to not allow wrapping). Use "-" to create bullet point, ## are used to create line) 
+notebooks
+
+MHI 2004 - 2015 Galveston County.ipynp
+MHI 2004 - 2015 Louisa County.ipynp
+
+Must use API key for US Census
+
+data
+
+Data was pulled using API and then manually copied / pasted into Excel and saved as .csv 
+Then, and bar charts were created and saved as .xlsx
+mhi_galv_county.xlsx
+mhi_louisa_county.xlsx
