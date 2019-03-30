@@ -20,13 +20,13 @@ data
 ##
 Agencies (Final_Amy folder):
  
-Notebooks create a heatmap showing agencies available to pull API in Texas and Virginia. (Final_Amy/data/cleandata/)
-
-Will need to use GMAPS API key from https://cloud.google.com/maps-platform/ to run notebooks:
- 
 notebooks
  - tx_map_part_agencies.ipynb
  - va_map_part_agencies.ipynb
+
+Notebooks create a heatmap showing agencies available to pull API in Texas and Virginia. (Final_Amy/data/cleandata/)
+
+Will need to use GMAPS API key from https://cloud.google.com/maps-platform/ to run notebooks:
 
 data/clean_data
  - tx2008cde_agencies.csv
