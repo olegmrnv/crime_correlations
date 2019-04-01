@@ -1,4 +1,0 @@
-,agency_name,agency_type_name,county_name,division_name,latitude,longitude,nibrs,nibrs_start_date,ori,region_desc,region_name,state_abbr,state_name
-VA054SP00,State Police: Louisa County,State Police,LOUISA,South Atlantic,37.808872,-77.86498,True,01/01/1994,VA054SP00,Region III,South,VA,Virginia
-VA0540100,Louisa Police Department,City,LOUISA,South Atlantic,37.971681,-77.959178,True,01/01/2004,VA0540100,Region III,South,VA,Virginia
-VA0540000,Louisa County Sheriff's Office,County,LOUISA,South Atlantic,37.971681,-77.959178,True,01/01/2000,VA0540000,Region III,South,VA,Virginia
