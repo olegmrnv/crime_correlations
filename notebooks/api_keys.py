@@ -1,5 +1,5 @@
 # Crime Data API Key
-crime_api_key = "YOUR KEY HERE"
+crime_api_key = ""
 
 #Census Data API Key
-census_api_key = "YOUR KEY HERE"
+census_api_key = ""
