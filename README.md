@@ -32,8 +32,8 @@ Notebooks create a heatmap showing agencies available to pull API in Texas and V
 Will need to use GMAPS API key from https://cloud.google.com/maps-platform/ to run notebooks:
 
 data/clean_data
- - tx2008cde_agencies.csv
- - va2011cde_agencies.csv
+ - tx_combined_2004-2015.csv
+ - VA_combined_2005-2015.csv
 
 reports
  - All NIBRS Participating Texas Agencies 2008.png
