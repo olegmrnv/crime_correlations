@@ -1,10 +1,18 @@
-﻿# Effects of Natural Disasters on Communities
+
+===============================================================================
+
+Please navigate to project_final branch for evaluation:
+https://github.com/olegmrnv/crime_correlations/tree/project_final
+
+===============================================================================
+
+#
+
+
+# Effects of Natural Disasters on Communities
 by A.M.O.K.
 #
 Crime data analysis (final_Oleg folder):
-
-final for grading is here:
-https://github.com/olegmrnv/crime_correlations/tree/project_final
  
 notebooks
  - data_cleanup_TX.ipynb
